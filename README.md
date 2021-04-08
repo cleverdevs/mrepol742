@@ -6,7 +6,7 @@
 - 💬 Ask me about what i like.
 - 📫 How to reach me: Open your Facebook and search @mrepol742 or mail me on mrepol742@gmail.com
 - 😄 Pronouns: Who Cares?
-- ⚡ Fun fact: I like cars.
+- ⚡ Fun fact: I like games and anime.
 - 📝 IDE/Text Editor i used: Android Studio, Atom and Notepad.
 
 
