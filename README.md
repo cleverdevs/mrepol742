@@ -16,7 +16,6 @@ Ya guy's can reach me on:
 - Facebook Page (Mrepol742): https://fb.me/mrepol742.page
 - Facebook Page (Webvium): https://fb.me/mrepol742.webvium
 - Facebook Group: https://fb.me/mrepol742.group
-- Github: https://github.com/mrepol742
 - Xbox Gamertag: https://xboxgamertag.com/search/mrepol742
 - Instagram: https://instagram.com/mrepol742
 - Twitter: https://twitter.com/mrepol742
