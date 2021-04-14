@@ -1,5 +1,6 @@
 ### Mushi Mushi 👋
 
+## There are people in this world that go out of their way to make things difficult for themselves just to prove that those things can be done.. And I'm one of them.
 
 - 🔭 I’m currently working on PROJECT-WEBVIUM and Misaka 10032.
 - 🌱 I’m currently learning Java, XML, PHP, SQLite, HTML, CSS and JS.
