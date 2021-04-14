@@ -10,6 +10,15 @@
 - ⚡ Fun fact: I like games and anime.
 - 📝 IDE/Text Editor i used: Android Studio, Atom and Notepad.
 
+Ya guy's can reach me on:
+- My Website: https://mrepol742.github.io
+- Facebook: https://fb.me/mrepol742
+- Facebook Page (Mrepol742): https://fb.me/mrepol742.page
+- Facebook Page (Webvium): https://fb.me/mrepol742.webvium
+- Facebook Group: https://fb.me/mrepol742.group
+- Instagram: https://instagram.com/mrepol742
+- Twitter: https://twitter.com/mrepol742
+
 
 ![Most Active GitHub User Rank](https://enibdhv97zm33sz.m.pipedream.net)
 
