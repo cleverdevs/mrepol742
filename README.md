@@ -27,3 +27,5 @@ Ya guy's can reach me on:
 ![Melvin Jones Gallano Repol Github Stats](https://github-readme-stats.vercel.app/api?username=mrepol742&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)](https://github.com/mrepol742/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/mrepol742/github-readme-stats)
