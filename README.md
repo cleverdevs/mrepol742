@@ -28,4 +28,4 @@ Ya guy's can reach me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/anuraghazra/github-readme-stats)
