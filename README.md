@@ -24,8 +24,8 @@ Ya guy's can reach me on:
 
 ![Most Active GitHub User Rank](https://enibdhv97zm33sz.m.pipedream.net)
 
-![Melvin Jones Gallano Repol Github Stats](https://github-readme-stats.vercel.app/api?username=mrepol742&show_icons=true&theme=radical)
+![Mrepol742 GitHub Stat's](https://github-readme-stats.vercel.app/api?username=mrepol742&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrepol742 Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrepol742 Wakatime Stat's](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/anuraghazra/github-readme-stats)
