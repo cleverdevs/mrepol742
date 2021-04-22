@@ -26,6 +26,6 @@ Ya guy's can reach me on:
 
 ![Mrepol742 GitHub Stat's](https://github-readme-stats.vercel.app/api?username=mrepol742&include_all_commits=true)
 
-[![Mrepol742 Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrepol742 Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact)]
 
-[![Mrepol742 Wakatime Stat's](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrepol742 Wakatime Stat's](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742)]
